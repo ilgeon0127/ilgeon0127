@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=IlGeon&fontSize=70&fontAlign=70&fontAlignY=35&rotate=20&desc=Artificial%20Intelligence&descAlign=70&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=IlGeon&fontSize=70&fontAlign=70&fontAlignY=35&rotate=20&desc=Artificial%20Intelligence&descAlign=70&descAlignY=45)
 
 <!--
 **ilgeon0127/ilgeon0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=footer)
